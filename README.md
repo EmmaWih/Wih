@@ -19,7 +19,7 @@ On the creative side, I'm equally enthusiastic about crafting visually appealing
 I'm always excited to collaborate on new projects and connect with fellow professionals. Feel free to reach out to me through the following channels:
 
 - GitHub: [emmanuelwih](https://github.com/emmanuelwih)
-- LinkedIn: [Emmanuel Wih](https://www.linkedin.com/in/emmanuelwih)
+- LinkedIn: [Emmanuel Wih](https://www.linkedin.com/in/emmanuel-wih-bb6250229/)
 - Email: [EmmaWilliam](emmawilliam285@gmail.com)
 
 Let's work together to turn data into insights and create captivating design experiences!
