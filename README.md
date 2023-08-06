@@ -20,6 +20,6 @@ I'm always excited to collaborate on new projects and connect with fellow profes
 
 - GitHub: [emmanuelwih](https://github.com/emmanuelwih)
 - LinkedIn: [Emmanuel Wih](https://www.linkedin.com/in/emmanuel-wih-bb6250229/)
-- Email: [EmmaWilliam](emmawilliam285@gmail.com)
+
 
 Let's work together to turn data into insights and create captivating design experiences!
